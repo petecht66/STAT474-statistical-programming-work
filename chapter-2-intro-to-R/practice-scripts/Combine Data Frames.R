@@ -1,6 +1,6 @@
 # Read in the Males.csv and Females.csv files
-Males<-read.csv(chapter-2-intro-to-R\data\Males.csv)
-Females<-read.csv(chapter-2-intro-to-R\data\Females.csv)
+Males<-read.csv("https://raw.githubusercontent.com/petecht66/STAT474-statistical-programming-work/refs/heads/main/chapter-2-intro-to-R/data/Males.csv")
+Females<-read.csv("https://raw.githubusercontent.com/petecht66/STAT474-statistical-programming-work/refs/heads/main/chapter-2-intro-to-R/data/Females.csv")
 Males
 Females
 
