@@ -5,6 +5,9 @@
 #Squares Regression Model, and then predicts total sleep when brain weight is 100 and when
 #brain weight is 500.
 
+#Listing packages to allow for work in VS Code 6-1-2026
+library(ggplot2)
+
 #Reads in Sleep data set, creates sleep data frame
 sleep<-read.csv("https://raw.githubusercontent.com/petecht66/STAT474-statistical-programming-work/refs/heads/main/chapters-11-12-13-14-Two-Sample-Inference-ANOVA-and-SLR/data/Sleep.csv")
 sleep
