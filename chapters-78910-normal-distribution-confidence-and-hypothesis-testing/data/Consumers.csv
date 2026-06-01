@@ -1,0 +1,449 @@
+ID,Gender,Born,Status
+19,M,1970,Not Single
+22,M,1963,Not Single
+23,F,1955,Not Single
+26,M,1960,Not Single
+28,M,1968,Not Single
+29,M,1956,Not Single
+30,M,1980,Single
+31,M,1984,Not Single
+34,F,1983,Not Single
+37,M,1953,Not Single
+38,M,1971,Single
+39,M,1986,Single
+42,F,1978,Not Single
+43,M,1945,Not Single
+47,M,1963,Single
+51,F,1954,Single
+53,M,1984,Not Single
+55,F,1980,Not Single
+59,M,1954,Not Single
+60,M,1961,Not Single
+62,F,1958,Not Single
+63,M,1957,Not Single
+64,F,1986,Not Single
+65,M,1980,Not Single
+69,F,1950,Not Single
+70,M,1954,Not Single
+71,M,1953,Not Single
+74,M,1986,Single
+75,M,1983,Single
+76,M,1977,Single
+78,M,1964,Not Single
+83,M,1945,Not Single
+84,M,1965,Single
+85,F,1984,Single
+89,M,1976,Not Single
+90,F,1962,Not Single
+91,M,1954,Single
+92,F,1973,Not Single
+93,M,1969,Not Single
+94,M,1986,Not Single
+95,M,1952,Not Single
+96,M,1951,Not Single
+97,F,1952,Not Single
+98,F,1949,Not Single
+100,F,1952,Single
+101,F,1979,Not Single
+106,F,1965,Single
+108,F,1956,Not Single
+110,M,1960,Not Single
+112,F,1960,Not Single
+113,F,1965,Single
+116,M,1952,Not Single
+117,M,1974,Not Single
+118,M,1962,Single
+121,M,1979,Not Single
+122,M,1950,Not Single
+124,M,1981,Not Single
+126,M,1984,Single
+132,F,1977,Not Single
+135,F,1980,Single
+137,F,1980,Not Single
+138,M,1954,Not Single
+141,M,1963,Not Single
+142,M,1968,Single
+145,M,1959,Not Single
+148,M,1974,Not Single
+152,F,1970,Not Single
+153,M,1956,Single
+155,F,1959,Not Single
+156,M,1953,Not Single
+164,M,1938,Not Single
+169,M,1981,Not Single
+172,M,1964,Not Single
+173,M,1977,Single
+174,M,1962,Single
+177,F,1957,Single
+180,M,1964,Single
+181,F,1979,Single
+182,F,1961,Not Single
+183,F,1951,Single
+185,M,1964,Single
+187,M,1970,Not Single
+189,F,1960,Not Single
+190,M,1951,Single
+191,M,1946,Not Single
+193,M,1978,Single
+195,F,1976,Single
+196,M,1963,Single
+197,M,1982,Single
+199,M,1961,Single
+200,M,1946,Not Single
+201,M,1967,Not Single
+202,M,1967,Not Single
+210,M,1963,Not Single
+211,F,1963,Not Single
+212,M,1972,Not Single
+213,F,1949,Not Single
+214,F,1970,Not Single
+215,F,1973,Not Single
+219,F,1983,Not Single
+221,M,1987,Single
+223,M,1982,Single
+224,M,1980,Single
+225,M,1969,Not Single
+226,M,1967,Not Single
+228,M,1984,Not Single
+229,M,1970,Not Single
+233,M,1987,Single
+235,F,1958,Not Single
+236,M,1982,Not Single
+237,F,1983,Not Single
+241,F,1956,Single
+242,M,1984,Not Single
+243,M,1966,Not Single
+246,M,1981,Not Single
+247,M,1957,Not Single
+249,M,1972,Not Single
+251,M,1969,Single
+256,M,1973,Not Single
+257,M,1968,Not Single
+258,M,1967,Not Single
+260,F,1984,Single
+261,F,1978,Not Single
+262,M,1984,Single
+263,M,1951,Not Single
+266,F,1956,Single
+268,F,1978,Not Single
+270,F,1978,Not Single
+271,F,1963,Not Single
+273,M,1964,Not Single
+279,M,1964,Not Single
+284,M,1970,Not Single
+285,M,1975,Not Single
+288,M,1943,Not Single
+291,M,1969,Not Single
+293,M,1979,Not Single
+295,F,1951,Single
+303,M,1966,Not Single
+304,F,1950,Not Single
+305,F,1978,Single
+308,M,1950,Not Single
+309,F,1976,Single
+310,F,1983,Single
+313,M,1968,Not Single
+314,M,1950,Not Single
+316,M,1974,Single
+317,M,1969,Single
+318,M,1972,Not Single
+336,M,1962,Not Single
+337,F,1970,Single
+338,F,1961,Not Single
+341,M,1955,Not Single
+343,M,1968,Not Single
+344,M,1966,Single
+345,M,1960,Not Single
+346,M,1967,Not Single
+347,M,1951,Not Single
+348,M,1985,Not Single
+349,F,1950,Single
+350,F,1977,Not Single
+353,M,1985,Single
+354,M,1970,Not Single
+355,M,1940,Not Single
+357,M,1946,Single
+360,F,1956,Not Single
+361,F,1979,Single
+362,M,1986,Single
+363,F,1978,Not Single
+364,F,1960,Single
+366,M,1949,Single
+367,M,1982,Single
+368,M,1959,Single
+369,M,1971,Single
+372,M,1979,Not Single
+373,F,1952,Single
+374,M,1980,Single
+376,F,1982,Not Single
+384,M,1975,Not Single
+385,M,1946,Not Single
+388,M,1969,Single
+391,F,1972,Single
+392,F,1964,Not Single
+393,F,1963,Not Single
+397,M,1966,Not Single
+398,M,1969,Not Single
+400,F,1984,Not Single
+402,F,1973,Single
+406,M,1951,Not Single
+407,M,1956,Not Single
+408,M,1961,Not Single
+410,M,1950,Single
+411,M,1950,Single
+414,M,1982,Not Single
+421,F,1983,Single
+423,M,1975,Not Single
+424,M,1953,Not Single
+425,M,1946,Single
+426,M,1954,Not Single
+432,M,1965,Not Single
+434,M,1974,Not Single
+438,M,1950,Single
+439,M,1978,Not Single
+440,M,1966,Single
+442,M,1977,Not Single
+443,M,1951,Single
+445,F,1958,Not Single
+448,F,1952,Single
+450,F,1953,Not Single
+452,M,1974,Not Single
+457,M,1982,Single
+459,M,1968,Not Single
+462,M,1962,Not Single
+463,M,1961,Single
+466,M,1963,Not Single
+472,M,1982,Single
+475,F,1975,Not Single
+482,F,1978,Single
+483,M,1950,Not Single
+484,M,1953,Single
+487,F,1975,Not Single
+488,F,1958,Not Single
+490,F,1952,Single
+491,M,1984,Single
+492,M,1987,Single
+493,F,1967,Not Single
+499,F,1949,Single
+501,F,1978,Not Single
+502,M,1950,Single
+503,M,1974,Not Single
+504,M,1946,Not Single
+506,M,1985,Single
+508,M,1947,Single
+515,F,1982,Not Single
+516,M,1977,Not Single
+518,F,1983,Single
+519,F,1983,Single
+520,F,1949,Not Single
+525,M,1968,Not Single
+527,M,1977,Single
+529,M,1949,Single
+530,M,1966,Not Single
+531,M,1986,Single
+532,M,1966,Not Single
+536,M,1953,Not Single
+539,M,1978,Single
+541,M,1982,Single
+542,F,1975,Single
+543,F,1968,Not Single
+544,M,1987,Single
+545,M,1973,Single
+548,M,1966,Not Single
+553,M,1977,Not Single
+556,M,1970,Not Single
+558,M,1952,Not Single
+559,M,1953,Single
+560,M,1961,Not Single
+561,M,1961,Not Single
+562,M,1965,Single
+566,F,1976,Single
+567,M,1977,Not Single
+571,F,1970,Single
+572,M,1973,Single
+574,F,1958,Not Single
+575,M,1963,Single
+578,F,1978,Not Single
+579,M,1967,Single
+580,M,1959,Not Single
+584,F,1961,Single
+585,F,1983,Not Single
+588,M,1978,Not Single
+589,M,1976,Single
+590,M,1969,Single
+592,M,1985,Single
+594,F,1966,Single
+596,F,1984,Not Single
+598,M,1968,Not Single
+599,M,1977,Single
+603,F,1981,Not Single
+605,M,1966,Not Single
+607,M,1986,Not Single
+612,M,1966,Single
+616,F,1960,Not Single
+625,F,1979,Not Single
+626,F,1979,Not Single
+627,M,1978,Single
+628,F,1971,Not Single
+631,F,1980,Single
+633,F,1978,Not Single
+635,M,1978,Not Single
+637,F,1976,Not Single
+639,M,1970,Not Single
+645,F,1982,Not Single
+646,F,1975,Not Single
+649,M,1987,Not Single
+658,M,1974,Not Single
+660,F,1972,Not Single
+661,F,1972,Single
+663,F,1975,Not Single
+664,M,1983,Not Single
+667,F,1970,Not Single
+668,M,1963,Single
+672,F,1959,Not Single
+673,M,1983,Not Single
+675,M,1958,Not Single
+677,M,1987,Single
+678,F,1976,Not Single
+679,M,1975,Single
+683,F,1971,Not Single
+684,M,1978,Not Single
+691,M,1973,Single
+693,F,1986,Not Single
+694,F,1981,Not Single
+695,F,1986,Not Single
+696,M,1961,Not Single
+697,F,1981,Not Single
+698,F,1981,Not Single
+699,M,1975,Not Single
+700,M,1967,Not Single
+705,F,1983,Single
+708,F,1965,Not Single
+710,F,1970,Not Single
+715,F,1978,Not Single
+716,M,1972,Not Single
+717,F,1965,Not Single
+718,F,1979,Not Single
+721,F,1970,Single
+722,F,1980,Single
+728,F,1966,Single
+730,F,1984,Not Single
+734,M,1969,Single
+735,M,1972,Not Single
+742,F,1971,Not Single
+746,F,1971,Single
+747,M,1987,Not Single
+765,M,1987,Single
+767,F,1987,Single
+773,F,1987,Not Single
+775,M,1987,Single
+781,M,1987,Single
+790,F,1979,Not Single
+793,F,1987,Not Single
+795,F,1985,Single
+796,F,1987,Not Single
+800,M,1987,Single
+801,M,1987,Not Single
+826,M,1986,Single
+835,M,1987,Single
+836,M,1987,Single
+842,F,1987,Single
+853,F,1987,Single
+866,F,1986,Not Single
+875,F,1987,Single
+877,M,1987,Single
+878,M,1987,Not Single
+896,F,1986,Not Single
+914,M,1986,Single
+920,F,1987,Not Single
+925,F,1987,Single
+927,F,1987,Single
+932,F,1987,Single
+934,M,1985,Single
+960,F,1987,Not Single
+965,M,1986,Single
+971,M,1974,Not Single
+976,M,1987,Not Single
+980,F,1979,Single
+981,M,1960,Single
+984,M,1971,Not Single
+995,F,1964,Single
+997,M,1981,Single
+999,M,1961,Not Single
+1000,F,1961,Not Single
+1002,M,1970,Single
+1003,M,1975,Not Single
+1007,M,1971,Not Single
+1008,F,1975,Not Single
+1014,M,1959,Not Single
+1018,M,1980,Single
+1020,F,1986,Not Single
+1021,M,1967,Not Single
+1022,F,1981,Not Single
+1025,F,1978,Not Single
+1027,M,1986,Not Single
+1034,F,1975,Not Single
+1035,F,1971,Single
+1036,F,1981,Single
+1037,M,1973,Not Single
+1040,M,1966,Not Single
+1049,M,1981,Not Single
+1051,F,1967,Single
+1054,M,1959,Not Single
+1056,F,1982,Not Single
+1060,F,1968,Single
+1063,F,1970,Not Single
+1076,F,1961,Single
+1077,M,1964,Single
+1081,M,1959,Not Single
+1083,F,1959,Single
+1085,M,1959,Not Single
+1087,F,1980,Not Single
+1097,M,1980,Not Single
+1098,F,1987,Not Single
+1112,F,1987,Not Single
+1116,F,1987,Not Single
+1133,F,1987,Single
+1139,F,1987,Not Single
+1153,F,1977,Not Single
+1168,F,1987,Not Single
+1178,F,1987,Single
+1184,M,1985,Single
+1189,F,1987,Single
+1222,F,1974,Single
+1224,F,1966,Not Single
+1254,F,1987,Single
+1279,F,1980,Single
+1282,M,1987,Not Single
+1290,M,1987,Single
+1291,F,1987,Single
+1297,F,1987,Single
+1306,F,1987,Single
+1331,M,1986,Not Single
+1345,M,1987,Single
+1354,F,1985,Single
+1356,M,1984,Single
+1359,F,1980,Single
+1367,F,1987,Not Single
+1370,F,1987,Not Single
+1371,F,1987,Single
+1372,M,1977,Not Single
+1377,F,1985,Not Single
+1381,F,1959,Not Single
+1405,M,1963,Single
+1413,F,1987,Not Single
+1425,F,1987,Not Single
+1443,F,1987,Not Single
+1447,M,1987,Single
+1449,F,1987,Not Single
+1450,F,1987,Single
+1464,F,1987,Single
+1475,F,1979,Not Single
+1485,M,1987,Not Single
+1500,M,1987,Not Single
+1504,M,1987,Single
+1507,M,1987,Single
+1520,F,1987,Not Single
+1522,M,1984,Not Single
+1526,F,1987,Single
+1550,M,1987,Single
