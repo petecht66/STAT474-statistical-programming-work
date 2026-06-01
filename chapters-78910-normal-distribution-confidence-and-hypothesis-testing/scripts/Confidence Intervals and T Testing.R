@@ -1,3 +1,6 @@
+#Listing packages to allow for work in VS Code 6-1-2026
+library(moments)
+library(tigerstats)
 
 #read in the blood pressure readings for the patients receiving Placebo.
 bld_placebo<-read.csv("https://raw.githubusercontent.com/petecht66/STAT474-statistical-programming-work/refs/heads/main/chapters-78910-normal-distribution-confidence-and-hypothesis-testing/data/blood_pressure_placebo.csv")

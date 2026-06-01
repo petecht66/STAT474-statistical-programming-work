@@ -6,6 +6,10 @@
 #finds descriptive statistics of miles per gallon by country through a new data frame.
 #Finally, probabilities are calculated using the standard normal distribution.
 
+#Listing packages to allow for work in VS Code 6-1-2026
+library(ggplot2)
+library(tigerstats)
+
 #Reading in Car Mileage data set
 mpg<-read.csv("https://raw.githubusercontent.com/petecht66/STAT474-statistical-programming-work/refs/heads/main/chapters-78910-normal-distribution-confidence-and-hypothesis-testing/data/car_mileage2.csv")
 mpg
