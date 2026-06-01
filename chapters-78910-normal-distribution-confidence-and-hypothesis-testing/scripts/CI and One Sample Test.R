@@ -1,3 +1,7 @@
+#Listing packages to allow for work in VS Code 6-1-2026
+library(moments)
+library(tigerstats)
+
 bp<-read.csv("https://raw.githubusercontent.com/petecht66/STAT474-statistical-programming-work/refs/heads/main/chapters-78910-normal-distribution-confidence-and-hypothesis-testing/data/blood_pressure2.csv")
 bp
 

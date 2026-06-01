@@ -1,3 +1,7 @@
+#Listing packages to allow for work in VS Code 6-1-2026
+library(moments)
+library(ggplot2)
+
 #Read in data set
 bld_pressure2<-read.csv("https://raw.githubusercontent.com/petecht66/STAT474-statistical-programming-work/refs/heads/main/chapters-78910-normal-distribution-confidence-and-hypothesis-testing/data/blood_pressure2.csv")
 bld_pressure2

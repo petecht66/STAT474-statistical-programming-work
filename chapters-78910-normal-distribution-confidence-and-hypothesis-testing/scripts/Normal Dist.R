@@ -1,3 +1,7 @@
+#Listing packages to allow for work in VS Code 6-1-2026
+library(moments)
+library(tigerstats)
+
 prob_z_lt_1.32<-round(pnorm(1.32), 4)
 prob_z_lt_1.32
 
