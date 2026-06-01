@@ -1,3 +1,7 @@
+#Listing packages to allow for work in VS Code 6-1-2026
+library(ggplot2)
+library(plotrix)
+
 language<-read.csv("https://raw.githubusercontent.com/petecht66/STAT474-statistical-programming-work/refs/heads/main/chapters-11-12-13-14-Two-Sample-Inference-ANOVA-and-SLR/data/Language.csv")
 language
 
