@@ -1,0 +1,56 @@
+Species,Brain_Weight,Total_Sleep,Danger
+Roe deer,98.2,2.6,5
+Horse,655,2.9,5
+Donkey,419,3.1,5
+Goat,115,3.8,5
+Sheep,175,3.8,5
+Cow,423,3.9,5
+Rock hyrax(Procaviahab),21,5.4,3
+Tree hyrax,12.3,5.4,3
+Genet,17.5,6.1,1
+Brazilian tapir,169,6.2,4
+Gray seal,325,6.2,1
+Rock hyrax(Heterob),12.3,6.6,2
+Guinea pig,5.5,8.2,4
+African giant pouched rat,6.6,8.3,3
+Eastern American mole,1.2,8.4,1
+Pig,180,8.4,4
+Rabbit,12.1,8.4,5
+Echidna,25,8.6,2
+Lesser short-tailed shrew,0.14,9.1,4
+Rhesus monkey,179,9.6,2
+Chimpanzee,440,9.7,1
+Baboon,179.5,9.8,4
+Red fox,50.4,9.8,1
+Desert hedgehog,2.4,10.3,2
+Starnosed mole,1,10.3,2
+Vervet,58,10.3,4
+Mole rat,3,10.6,1
+European hedgehog,3.5,10.7,2
+Galago,5,10.7,2
+Jaguar,157,10.8,1
+Patas monkey,115,10.9,4
+Slow loris,12.5,11,2
+Mountain beaver,8.1,11.2,3
+Gorilla,406,12,1
+Arctic Fox,44.5,12.5,1
+Chinchilla,6.4,12.5,4
+Raccoon,39.2,12.5,2
+Musk shrew,0.33,12.8,3
+Gray wolf,119.5,13,1
+Mouse,0.4,13.2,3
+Rat,1.9,13.2,3
+Tenrec,2.6,13.3,2
+Phanlanger,11.4,13.7,2
+Ground squirrel,4,13.8,3
+Golden hamster,1,14.4,2
+Cat,25.6,14.5,1
+Tree shrew,2.5,15.8,2
+Arctic ground squirrel,5.7,16.5,3
+Owl monkey,15.5,17,2
+Nine-banded armadillo,10.8,17.4,1
+Giant armadillo,81,18.1,1
+North American opossum,6.3,19.4,1
+Water opossum,3.9,19.4,1
+Big brown bat,0.3,19.7,1
+Little brown bat,0.25,19.9,1
